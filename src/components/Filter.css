@@ -1,0 +1,41 @@
+.filter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+  background-color: #219ebc;
+  padding: 16px;
+  color: #fff;
+}
+
+.input-box {
+  padding: 4px;
+}
+
+.input-box .input{
+  display: block;
+  width: 100%;
+  margin-top: 4px;
+  padding: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 14px;
+  color: #333;
+}
+
+.submit-box {
+  padding: 4px;
+  display: flex;
+  align-items: flex-end;
+  align-self: flex-end;
+}
+
+.submit {
+  padding: 8px 16px;
+  border: 1px solid #023047 ;
+  border-radius: 4px;
+  background-color: #023047;
+  color: #fff;
+  font-size: 16px;
+}

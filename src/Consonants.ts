@@ -1,0 +1,1 @@
+export const PROMOTION_PERCENTAGE = 0.1;
